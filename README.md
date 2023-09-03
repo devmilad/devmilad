@@ -6,9 +6,9 @@
 
 <p align="center">
 <a href="https://www.devmilad.ir/"><img alt="Website" src="https://img.shields.io/badge/Website-www.devmilad.ir-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/milad-fazelian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/devmilad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:fazelianmilad3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/milad-fazelian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-milad fazelian-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/devmilad/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-devmilad__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:fazelianmilad3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fazelianmilad3@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
