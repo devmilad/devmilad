@@ -82,7 +82,7 @@ Cypress · Unit Testing · Firebase
 
 ## 🔗 Links
 - 🌐 Website: https://devmilad.ir  
-- 🐙 GitHub: https://github.com/devmilad  
+- 🐙 GitHub: https://github.com/devmilad  or https://github.com/swai-milad-fazelian (private)
 - 💼 LinkedIn: https://www.linkedin.com/in/milad-fazelian-1020522b2
 
 ---
